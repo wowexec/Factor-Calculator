@@ -1,5 +1,5 @@
 # Factor-Calculator
 
-* This is a factor calculator. *
+*** This is a factor calculator.
 
-Updating...
+*Updating...
